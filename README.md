@@ -7,3 +7,4 @@ Right now there is three filters:
 - brown noise
 - low-pass filter
 
+> inspired by dozens of "deep brown noise" youtube videos
